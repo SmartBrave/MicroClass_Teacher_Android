@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#00ff00</color>
+    <color name="colorAccent">#0000ff</color>
+
+    <color name="windowBackground">#EEEEEE</color>
+    <color name="colorItem">#FFFFFF</color>
+    <color name="colorItemPressed">#EEEEEE</color>
+
+</resources>
